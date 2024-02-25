@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 ![CA's GitHub stats](https://github-readme-stats.vercel.app/api?username=caicatar&show_icons=true)
+<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caicatar&layout=donut)
 
 <!--
