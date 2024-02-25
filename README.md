@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![CA's GitHub stats](https://github-readme-stats.vercel.app/api?username=caicatar)](https://github.com/caicatar/github-readme-stats)
+[![CA's GitHub stats](https://github-readme-stats.vercel.app/api?username=caicatar&show_icons=true)]
 
 <!--
 **caicatar/caicatar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
